@@ -18,4 +18,4 @@ def FindPlayerName(names, playerTurn):
 # TODO #7 @NRafa1391 please write the main code which is there in ActualChips.cpp. The code you need to write is in the int main() fuction there.
 # TODO #9 @Sakuguy please write help write the main code with @NRafa1391. Also solve all the problems in the code. You do half of the code and let Neil do the rest. The code you need to write can be reffered to from ActualChips.cpp in the int main().
 # TODO #10 @MaxDubs please help @Wheatenloki finish the function askMove.
-#WHat is chips.Isnt it a library for designing hardware in python.I understood the input but I dont uderstand why there is return names for if statment true with playerTurn
+#WHat is chips.Isnt it a library for designing hardware in python.I understood the input function stuff but I dont uderstand why there is return names for if statment true with playerTurn
